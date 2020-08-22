@@ -21,3 +21,10 @@
         </div>
     </div>
 @endsection
+@push('scripts')
+    <script>
+        Echo.channel('open-channel').listen('SendMessage', (data) => {
+            console.log(data)
+        });
+    </script>
+@endpush
