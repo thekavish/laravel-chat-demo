@@ -23,6 +23,7 @@
         "vue-template-compiler": "^2.6.11"
     },
     "dependencies": {
+        "firebase": "^7.19.0",
         "laravel-echo": "^1.8.1",
         "pusher-js": "^7.0.0"
     }
