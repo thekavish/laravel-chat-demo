@@ -12,7 +12,7 @@ yarn-error.log
 
 public/css/app.css
 public/js/app.js
-public/firebase-messaging-sw.js
+public/js/firebaseConfig.js
 
 _ide_helper.php
 _ide_helper_models.php
